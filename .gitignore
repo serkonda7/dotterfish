@@ -1,0 +1,8 @@
+# Ignore binary files without extension
+*
+!*/
+!*.*
+
+# Ignore other bineries
+*.exe
+*.js

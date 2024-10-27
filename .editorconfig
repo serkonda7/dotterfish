@@ -1,0 +1,4 @@
+root = true
+
+[*.bt]
+indent_style = tab
